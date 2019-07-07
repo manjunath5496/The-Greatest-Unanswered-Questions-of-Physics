@@ -1,6 +1,6 @@
 
 <p><strong>22 Highly Recommended Physics Books</strong></p>
-<p><strong>___________________________________________________________________________________________________________________________________</strong></p>
+<p><strong>________________________________________________________________________________________________________________________________</strong></p>
 
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Unanswered-Questions-of-Physics/blob/master/physics(1).pdf" style="text-decoration:none;">Schaum's Outline of Theory and Problems of College Physics </a></b></li>
