@@ -17,7 +17,7 @@
 <p>To answer these most challenging questions about the nature of the universe and led down open doors into new insights and findings, all the approaches must converge. Results from accelerator experiments at LHC must agree with most powerful and insightful astrophysical observations and results from sophisticated data. However, the experiments necessary to go beyond the existing knowledge of&nbsp;<strong>standard physics</strong>&nbsp;are rapidly becoming prohibitively expensive and time consuming and the macroscopic experiments are difficult to perform in the laboratory as subatomic reactions at the incredible&nbsp;<strong>energy scale of 10 <sup>9</sup> GeV</strong>&nbsp;―&nbsp;which is far beyond the range of our largest particle accelerators and it is the biggest embarrassment in all of modern physics and if you listen closely, you can almost hear the dreams of&nbsp;<a href="https://en.wikipedia.org/wiki/Physicist" target="_blank" rel="nofollow noopener">physicist</a>s everywhere being shattered.</p>
 <p>&nbsp;</p>
 <p><strong>22 Highly Recommended Physics Books</strong></p>
-<p><strong>________________________________________________________________________________________________________________________________</strong></p>
+<hr>
 
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Greatest-Unanswered-Questions-of-Physics/blob/master/physics(1).pdf" style="text-decoration:none;">Schaum's Outline of Theory and Problems of College Physics </a></b></li>
